@@ -5,16 +5,16 @@
     <test name="Chrome_Tests">
 
         <classes>
-            <!--<class name="tests.StartPageTests"/>-->
-            <!--<class name="tests.ProfilePageTests"/>-->
+            <class name="tests.StartPageTests"/>
+            <class name="tests.ProfilePageTests"/>
             <class name="tests.ContributePageTest"/>
             <class name="tests.MyDashboardPageTest"/>
             <class name="tests.EntityPageTest"/>
-            <!--<class name="tests.BrowsePageTest"/>-->
-            <!--<class name="tests.VisualizePageTest"/>-->
-            <!--<class name="tests.DocumentationPageTest"/>-->
-            <!--<class name="tests.HomePageTest"/>-->
-            <!--<class name="tests.ContactPageTest"/>-->
+            <class name="tests.BrowsePageTest"/>
+            <class name="tests.VisualizePageTest"/>
+            <class name="tests.DocumentationPageTest"/>
+            <class name="tests.HomePageTest"/>
+            <class name="tests.ContactPageTest"/>
         </classes>
     </test>
 </suite>
