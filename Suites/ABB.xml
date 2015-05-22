@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="DRH.Tests" verbose="1">
+    <test name="Chrome_Tests">
+
+        <classes>
+            <!--<class name="tests.StartPageTests"/>-->
+            <!--<class name="tests.ProfilePageTests"/>-->
+            <class name="tests.ContributePageTest"/>
+            <class name="tests.MyDashboardPageTest"/>
+            <class name="tests.EntityPageTest"/>
+            <!--<class name="tests.BrowsePageTest"/>-->
+            <!--<class name="tests.VisualizePageTest"/>-->
+            <!--<class name="tests.DocumentationPageTest"/>-->
+            <!--<class name="tests.HomePageTest"/>-->
+            <!--<class name="tests.ContactPageTest"/>-->
+        </classes>
+    </test>
+</suite>
